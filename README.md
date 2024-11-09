@@ -43,4 +43,5 @@ o	Use observational data to estimate causal effects, controlling for demographic
 o	Apply causal inference methods such as Instrumental Variables (IV) if suitable instruments can be identified, or Propensity Score Matching (PSM) to account for selection bias.
 
 o	Conduct sensitivity analyses to evaluate the robustness of the findings, particularly to account for unobserved confounding factors.
-A Causal Inference Approach Using Instrumental Variable
+
+![output](https://github.com/user-attachments/assets/c9b88b2d-c306-4604-85c5-ce614cbbb212)
