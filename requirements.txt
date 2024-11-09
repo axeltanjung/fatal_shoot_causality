@@ -1,0 +1,6 @@
+numpy
+pandas
+seaborn
+matplotlib
+graphviz
+python-graphviz

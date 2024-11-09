@@ -1,0 +1,22 @@
+digraph {
+	Race
+	Age
+	Gender
+	"Armed Status"
+	"Signs of Mental Illness"
+	"Fleeing Behavior"
+	"Body Camera"
+	"Perceived Threat Level"
+	"Manner of Death"
+	"Police Response"
+	Race -> "Perceived Threat Level"
+	Age -> "Perceived Threat Level"
+	Gender -> "Perceived Threat Level"
+	"Armed Status" -> "Perceived Threat Level"
+	"Signs of Mental Illness" -> "Perceived Threat Level"
+	"Fleeing Behavior" -> "Perceived Threat Level"
+	"Fleeing Behavior" -> "Manner of Death"
+	"Perceived Threat Level" -> "Manner of Death"
+	"Body Camera" -> "Police Response"
+	"Police Response" -> "Manner of Death"
+}
