@@ -3,4 +3,6 @@ pandas
 seaborn
 matplotlib
 graphviz
-python-graphviz
+causalinference
+linearmodels
+causaldata
