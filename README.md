@@ -1,6 +1,6 @@
 # Evaluating the Impact of Policy Interventions on Fatal Police Shootings: 
 
-1.	Introduction and Background
+**1.	Introduction and Background**
 
 Fatal police shootings have been a source of deep concern and intense public scrutiny in the United States, sparking critical discussions about police accountability, racial injustice, and the role of law enforcement in society. The killing of Michael Brown in Ferguson, Missouri, in 2014 was a flashpoint that led to widespread protests, highlighted by the emergence of the Black Lives Matter movement, which called for systemic reform and transparency in policing. In response, The Washington Post began tracking police-involved fatalities in 2015, capturing extensive details about each incident, including the race of the deceased, the circumstances surrounding the shooting, and whether the victim was armed or experiencing a mental health crisis. This effort sought to fill gaps in government data and provide the public with a clearer picture of police use of lethal force. 
 
@@ -9,7 +9,7 @@ The Washington Post’s database has become one of the most comprehensive and wi
 Since 2022, The Post has also standardized and published the names of the police agencies involved in each shooting, further enhancing the potential for accountability at the department level. This dataset primarily focuses on cases that mirror circumstances like those in the killing of Michael Brown—instances in which on-duty police officers fatally shoot civilians. The dataset excludes fatalities in police custody, off-duty shootings, and non-shooting deaths.
 As debates over police reforms continue, the need to understand the impact of policy interventions on fatal police shootings has become paramount. Using a causal inference approach with instrumental variables, this study aims to examine the effectiveness of various policy interventions in reducing fatal police shootings, shedding light on how reforms can lead to meaningful changes in policing practices.
 
-2.	Project Goal
+**2.	Project Goal**
 
 The goal of this project is to evaluate the impact of specific factors on fatal police shootings, focusing on how the presence of certain conditions (e.g., signs of mental illness, the presence of a weapon) affects the likelihood of fatal outcomes. This involves answering causal questions such as:
 
@@ -18,7 +18,7 @@ The goal of this project is to evaluate the impact of specific factors on fatal 
 •	To what extent does mental illness influence threat-level assessment and subsequent outcomes in police interactions?
 
 
-3.	Design of Study
+**3.	Design of Study**
 
 •	Effect to Estimate: The primary effect of interest is how different attributes of individuals and the context of police encounters affect the likelihood of a fatal shooting. For example, the effect of “being unarmed” or “showing signs of mental illness” on the probability of a fatal outcome.
 
